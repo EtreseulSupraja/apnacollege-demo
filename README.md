@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first reposatory
 <br>
-Author: supraja
+Author: supraja (Apna College)
